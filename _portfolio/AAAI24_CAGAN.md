@@ -1,6 +1,6 @@
 ---
 title: "Causally Aware Generative Adversarial Networks for Light Pollution Control"
-excerpt: "<br/><video src='/images/AAAI24_CAGAN.mp4' controls />"
+excerpt: "<br/><video src='/images/AAAI24_CAGAN.mp4' controls width=600/>"
 collection: portfolio
 ---
 
