@@ -1,6 +1,6 @@
 ---
 title: "Discovering Latent Patterns of Urban Cultural Interactions in WeChat for Modern City Planning"
-excerpt: "<br/><video src='/images/KDD18.mov' controls width=800 />"
+excerpt: "<br/><video src='/images/KDD18.mov' controls width=720 />"
 collection: portfolio
 ---
 
