@@ -1,8 +1,8 @@
 ---
-title: "MuseCL: Predicting Urban Socioeconomic Indicators via Multi-Semantic Contrastive Learning"
-excerpt: "<br/><video src='/images/musecl-demo_25m.mp4' controls width=720 />"
+title: "About the LUMOS AI Lab"
+excerpt: "<br/><video src='/images/LUMOS_Intro_compress2.mp4' controls width=720 />"
 collection: portfolio
 ---
 
-Predicting socioeconomic indicators within urban regions is crucial for fostering inclusivity, resilience, and sustainability in cities and human settlements. While pioneering studies have attempted to leverage multi-modal data for socioeconomic prediction, jointly exploring their underlying semantics remains a significant challenge.
-To address the gap, this paper introduces a Multi-Semantic Contrastive Learning (MuseCL) framework for fine-grained urban region profiling and socioeconomic prediction. Within this framework, we initiate the process by constructing contrastive sample pairs for street view and remote sensing images, capitalizing on the similarities in human mobility and Point of Interest (POI) distribution to derive semantic features from the visual modality. Additionally, we extract semantic insights from POI texts embedded within these regions, employing a pre-trained text encoder. To merge the acquired visual and textual features, we devise an innovative cross-modality-based attentional fusion module, which leverages a contrastive mechanism for integration. Experimental results across multiple cities and indicators consistently highlight the superiority of MuseCL, demonstrating an average improvement of 10% in R2 compared to various competitive baseline models. The code of this work is publicly available at https://github.com/XixianYong/MuseCL.
+LUMOS AI Lab (AI for Urban Mobility & Societal Sciences) at Gaoling School of Artificial Intelligence, Renmin University of China, was founded by Assistant Professor Xiao Zhou. The lab is dedicated to advancing cutting-edge AI research to empower social development. You can find us on WeChat by searching “LUMOS熠智AI-Lab.”
+The name “LUMOS” is inspired by the spell “Lumos” from Harry Potter, used to light up a wizard’s wand. In the same spirit, we aspire to use the “magic” of AI to illuminate the future of cities and society.
