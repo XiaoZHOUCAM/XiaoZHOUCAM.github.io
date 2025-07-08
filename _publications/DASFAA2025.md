@@ -1,7 +1,7 @@
 ---
 title: "Leave No One Behind: Enhancing Diversity While Maintaining Accuracy in Social Recommendation"
 collection: publications
-date: 2024-05-26
+date: 2025-05-26
 venue: 'Proceedings of the 30th International Conference on Database Systems for Advanced Applications (DASFAA)'
 paperurl: 'http://XiaoZHOUCAM.github.io/files/DASFAA25_leave_no_one_behind.pdf'
 ---
