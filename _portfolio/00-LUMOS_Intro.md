@@ -1,5 +1,5 @@
 ---
-title: "About the LUMOS AI Lab"
+title: "About LUMOS AI Lab"
 excerpt: "<br/><video src='/images/LUMOS_Intro_compress2.mp4' controls width=720 />"
 collection: portfolio
 ---
