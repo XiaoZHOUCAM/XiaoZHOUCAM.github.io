@@ -1,11 +1,11 @@
 ---
-title: "Ada-Retrieval: An Adaptive Multi-Round Retrieval Paradigm for Sequential Recommendations"
+title: "Leave No One Behind: Enhancing Diversity While Maintaining Accuracy in Social Recommendation"
 collection: publications
-date: 2024-02-20
-venue: 'Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI)'
-paperurl: 'http://XiaoZHOUCAM.github.io/files/AAAI24_AdaRetrieval.pdf'
+date: 2024-05-26
+venue: 'Proceedings of the 30th International Conference on Database Systems for Advanced Applications (DASFAA)'
+paperurl: 'http://XiaoZHOUCAM.github.io/files/DASFAA25_leave_no_one_behind.pdf'
 ---
 
-Lei Li, Jianxun Lian, **Xiao Zhou**\*, Xing Xie. 
+Lei Li, **Xiao Zhou**\*. 
 
-Retrieval models aim at selecting a small set of item candidates which match the preference of a given user. They play a vital role in large-scale recommender systems since subsequent models such as rankers highly depend on the quality of item candidates. However, most existing retrieval models employ a single-round inference paradigm, which may not adequately capture the dynamic nature of user preferences and stuck in one area in the item space. In this paper, we propose Ada-Retrieval, an adaptive multi-round retrieval paradigm for recommender systems that iteratively refines user representations to better capture potential candidates in the full item space. Ada-Retrieval comprises two key modules: the item representation adapter and the user representation adapter, designed to inject context information into items’ and users’ representations. The framework maintains a model-agnostic design, allowing seamless integration with various backbone models such as RNNs or Transformers. We perform experiments on three widely used public datasets, incorporating five powerful sequential recommenders as backbone models. Our results demonstrate that Ada-Retrieval significantly enhances the performance of various base models, with consistent improvements observed across different datasets. Our code and data are publicly available at: https://github.com/ll0ruc/Ada- Retrieval.
+Social recommendation, which incorporates social connections into recommender systems, has proven effective in improving recommendation accuracy. However, beyond accuracy, diversity is also crucial for enhancing user engagement. Despite its importance, the impact of social recommendation models on diversity remains largely unexplored. In this study, we systematically examine the dual performance of existing social recommendation algorithms in terms of both accuracy and diversity. Our empirical analysis reveals a concerning trend: while social recommendation models enhance accuracy, they often reduce diversity. To address this issue, we propose Diversified Social Recommendation (DivSR), a novel approach that employs relational knowledge distillation to transfer high-diversity structured knowledge from non-social recommendation models to social recommendation models. DivSR is a lightweight, model-agnostic framework that seamlessly integrates with existing social recommendation architectures. Experiments on three benchmark datasets demonstrate that DivSR significantly enhances diversity while maintaining competitive accuracy, achieving a superior accuracy-diversity trade-off. 
