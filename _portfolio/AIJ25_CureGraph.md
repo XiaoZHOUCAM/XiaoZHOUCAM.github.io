@@ -1,6 +1,6 @@
 ---
 title: "CureGraph: Contrastive multi-modal graph representation learning for urban living circle health pr­filing and prediction"
-excerpt: "<br><video src='/images/CureGraph_demo_24m.mp4' controls width=720 />"
+excerpt: "<br><video src='/images/CureGraph_24m.mp4' controls width=720 />"
 collection: portfolio
 ---
 
