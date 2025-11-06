@@ -18,9 +18,9 @@ Education
 * M.Phil. in Land Economy Research, University of Cambridge, 2015
 * B.Eng. in Urban Planning, Harbin Institute of Technology, 2014
 
-Work experience
+Work Experience
 ======
-* 2021.3-Present: Assistant Professor
+* 2021.3-Present: Associate Professor
   * Gaoling School of Artificial Intelligence
   * Renmin University of China
 
@@ -45,6 +45,10 @@ Work experience
 
 Research Funding
 ======
+* Kuaishou Technology Co., Ltd., PI
+  * Project: Exploration and Application of Large Models for Search Behavior
+* Tencent Holdings Limited, PI
+  * Project: Research on Hallucination and Editing Algorithms for Industry Foundation Models 
 * OPPO Guangdong Mobile Communication Co., Ltd., PI
   * Project: Intelligent Health Management Assistant and Question-Answering System based on Large-scale Models 
 * National Natural Science Foundation of China (NSFC Grant No. 62106274), PI
