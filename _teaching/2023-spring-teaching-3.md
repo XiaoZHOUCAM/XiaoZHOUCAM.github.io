@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2023-spring-teaching-3
 venue: "Renmin University of China, Gaoling School of Artificial Intelligence"
-date: 2024-09-01
+date: 2025-09-01
 location: "Beijing, China"
 ---
 
