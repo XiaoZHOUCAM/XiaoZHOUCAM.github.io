@@ -2,7 +2,7 @@
 title: "Think or Not? Exploring Thinking Efficiency in Large Reasoning Models via an Information-Theoretic Lens"
 collection: publications
 date: 2025-12-02
-venue: 'Proceedings of the Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS)'
+venue: 'Proceedings of the Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS spotlight)'
 paperurl: 'http://XiaoZHOUCAM.github.io/files/NeurIPS25_Think.pdf'
 ---
 
