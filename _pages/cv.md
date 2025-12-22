@@ -46,7 +46,11 @@ Work Experience
 Research Funding
 ======
 * Kuaishou Technology Co., Ltd., PI
+  * Project: End-to-End Large Recommendation Models for Near-Field Distribution Scenarios
+* Kuaishou Technology Co., Ltd., PI
   * Project: Exploration and Application of Large Models for Search Behavior
+* Yunnan Provincial Department of Science and Technology, PI of Sub-project
+  * Project: Domain Knowledge–Aware Parameter-Efficient Fine-Tuning of Large Models
 * Tencent Holdings Limited, PI
   * Project: Research on Hallucination and Editing Algorithms for Industry Foundation Models 
 * OPPO Guangdong Mobile Communication Co., Ltd., PI
