@@ -1,5 +1,5 @@
 ---
-title: "Think or Not? Exploring Thinking Efficiency in Large Reasoning Models via an Information-Theoretic Lens"
+title: "NeurIPS25-Think or Not? Exploring Thinking Efficiency in Large Reasoning Models via an Information-Theoretic Lens"
 excerpt: "<br/><video src='/images/think-or-not_video_compressed.mp4' controls width=720 />"
 collection: portfolio
 ---
