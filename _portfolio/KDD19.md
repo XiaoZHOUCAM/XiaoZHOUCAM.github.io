@@ -1,5 +1,5 @@
 ---
-title: "Topic-Enhanced Memory Networks for Personalised Point-of-Interest Recommendation"
+title: "KDD19-Topic-Enhanced Memory Networks for Personalised Point-of-Interest Recommendation"
 excerpt: "<br/><video src='/images/KDD19.mp4' controls width=720 />"
 collection: portfolio
 ---
