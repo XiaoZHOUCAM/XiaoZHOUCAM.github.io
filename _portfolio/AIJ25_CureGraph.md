@@ -1,5 +1,5 @@
 ---
-title: "CureGraph: Contrastive Multi-Modal Graph Representation Learning for Urban Living Circle Health Pro­filing and Prediction"
+title: "AIJ25-CureGraph: Contrastive Multi-Modal Graph Representation Learning for Urban Living Circle Health Pro­filing and Prediction"
 excerpt: "<br><video src='/images/CureGraph_24m.mp4' controls width=720 />"
 collection: portfolio
 ---
