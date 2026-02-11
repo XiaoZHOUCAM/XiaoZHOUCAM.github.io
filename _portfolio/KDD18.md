@@ -1,5 +1,5 @@
 ---
-title: "Discovering Latent Patterns of Urban Cultural Interactions in WeChat for Modern City Planning"
+title: "KDD18-Discovering Latent Patterns of Urban Cultural Interactions in WeChat for Modern City Planning"
 excerpt: "<br/><video src='/images/KDD18.mp4' controls width=720 />"
 collection: portfolio
 ---
