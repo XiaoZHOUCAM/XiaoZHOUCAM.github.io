@@ -1,5 +1,5 @@
 ---
-title: "Lost in Time? A Meta-Learning Framework for Time-Shift-Tolerant Physiological Signal Transformation"
+title: "AAAI26-Lost in Time? A Meta-Learning Framework for Time-Shift-Tolerant Physiological Signal Transformation"
 excerpt: "<br/><video src='/images/AAAI26_ShiftSyncNet_compressed.mp4' controls width=720 />"
 collection: portfolio
 ---
