@@ -1,5 +1,5 @@
 ---
-title: "Spatio-Temporal Hierarchical Causal Models"
+title: "AAAI26-Spatio-Temporal Hierarchical Causal Models"
 excerpt: "<br/><video src='/images/AAAI26_ST-HCMs.mp4' controls width=720 />"
 collection: portfolio
 ---
