@@ -1,5 +1,5 @@
 ---
-title: "Counterfactual Reasoning for Steerable Pluralistic Value Alignment of Large Language Models"
+title: "NeurIPS25-Counterfactual Reasoning for Steerable Pluralistic Value Alignment of Large Language Models"
 excerpt: "<br/><video src='/images/NeurIPS25_COUPLE.mp4' controls width=720 />"
 collection: portfolio
 ---
