@@ -1,5 +1,5 @@
 ---
-title: "Causally Aware Generative Adversarial Networks for Light Pollution Control"
+title: "AAAI24-Causally Aware Generative Adversarial Networks for Light Pollution Control"
 excerpt: "<p><br><video src='/images/AAAI24_CAGAN.mp4' controls width=720 ></video></p><p><video src='/images/CAGAN_18m.mp4' controls width=720></video><br></p>"
 collection: portfolio
 ---
