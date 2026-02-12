@@ -47,8 +47,10 @@ Research Funding
 ======
 * Kuaishou Technology Co., Ltd., PI
   * Project: End-to-End Large Recommendation Models for Near-Field Distribution Scenarios
+* Shenhan Technology Co., Ltd., PI
+  * Project: Research on Embodied Intelligence Visual Question Answering Model
 * Kuaishou Technology Co., Ltd., PI
-  * Project: Exploration and Application of Large Models for Search Behavior
+  * Project: End-to-End Large Recommendation Models for Near-Field Distribution Scenarios
 * Yunnan Provincial Department of Science and Technology, PI of Sub-project
   * Project: Domain Knowledge–Aware Parameter-Efficient Fine-Tuning of Large Models
 * Tencent Holdings Limited, PI
