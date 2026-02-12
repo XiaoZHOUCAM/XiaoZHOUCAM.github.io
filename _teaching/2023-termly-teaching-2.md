@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence for the Social Sciences (General Education Core Course)"
+title: "Introduction to Artificial Intelligence for the New Liberal Arts (General Education Core Course)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-termly-teaching-2
