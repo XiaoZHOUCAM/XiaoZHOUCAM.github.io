@@ -20,7 +20,11 @@ Education
 
 Work Experience
 ======
-* 2021.3-Present: Associate Professor
+* 2025.9-Present: Associate Professor
+  * Gaoling School of Artificial Intelligence
+  * Renmin University of China
+
+* 2021.3-2025.8: Assistant Professor
   * Gaoling School of Artificial Intelligence
   * Renmin University of China
 
