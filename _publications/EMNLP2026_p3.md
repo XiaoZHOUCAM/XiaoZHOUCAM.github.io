@@ -1,11 +1,12 @@
 ---
-title: "Causally Aware Generative Adversarial Networks for Light Pollution Control"
+title: "Controllable Affective Generation via Latent Vector Steering"
 collection: publications
-date: 2024-02-20
-venue: 'Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI)'
-paperurl: 'http://XiaoZHOUCAM.github.io/files/AAAI24_CAGAN.pdf'
+date: 2026-10-24
+venue: 'Findings of the Association for Computational Linguistics: EMNLP 2026'
+paperurl: 'http://XiaoZHOUCAM.github.io/files/EMNLP26_EmoVec.pdf'
 ---
 
-Yuyao Zhang, Ke Guo, **Xiao Zhou**\*.
+Xixian Yong, Siyuan Chang, Yingying Zhang, Xian Wu\*, **Xiao Zhou**\*.
 
-Artificial light plays an integral role in modern cities, significantly enhancing human productivity and the efficiency of civilization. However, excessive illumination can lead to light pollution, posing non-negligible threats to economic burdens, ecosystems, and human health. Despite its critical importance, the exploration of its causes remains relatively limited within the field of artificial intelligence, leaving an incomplete understanding of the factors contributing to light pollution and sustainable illumination planning distant. To address this gap, we introduce a novel framework named Causally Aware Generative Adversarial Networks (CAGAN). This innovative approach aims to uncover the fundamental drivers of light pollution within cities and offer intelligent solutions for optimal illumination resource allocation in the context of sustainable urban development. We commence by examining light pollution across 33,593 residential areas in seven global metropolises. Our findings reveal substantial influences on light pollution levels from various building types, notably grasslands, commercial centers and residential buildings as significant contributors. These discovered causal relationships are seamlessly integrated into the generative modeling framework, guiding the process of generating light pollution maps for diverse residential areas. Extensive experiments showcase CAGAN’s potential to inform and guide the implementation of effective strategies to mitigate light pollution. Our code and data are publicly available at https://github.com/zhangyuuao/Light Pollution CAGAN.
+Large Language Models (LLMs) often produce emotionally flattened responses after alignment, limiting their effectiveness in affect-sensitive applications. In this paper, we propose EmoVec, a lightweight framework for controllable affective generation via latent vector
+steering. EmoVec extracts emotion-specific directions from paired neutral and emotion-conditioned responses using contrastive activation addition, and further refines them through task-specific debiasing and principal subspace removal. During inference, these vectors are injected into the final residual stream with static or scenario-adaptive scaling, enabling continuous control over emotional intensity without updating model weights. Experiments across three LLMs and eight emotions show that EmoVec consistently improves emotional salience while largely preserving semantic content, fluency, and coherence. Ablation studies and human evaluation further confirm the effectiveness of vector purification and adaptive scaling, establishing EmoVec as a practical inference-time method for affective control in deployed LLMs. Code and data are available at https://github.com/chicosirius/EmoVec.
