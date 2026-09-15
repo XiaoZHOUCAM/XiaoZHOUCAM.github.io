@@ -1,11 +1,13 @@
 ---
-title: "Causally Aware Generative Adversarial Networks for Light Pollution Control"
+title: "Crowd Values: How Human Values Reshape LLM-Agent Communities"
 collection: publications
-date: 2024-02-20
-venue: 'Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI)'
-paperurl: 'http://XiaoZHOUCAM.github.io/files/AAAI24_CAGAN.pdf'
+date: 2026-10-24
+venue: 'Findings of the Association for Computational Linguistics: EMNLP 2026'
+paperurl: 'http://XiaoZHOUCAM.github.io/files/EMNLP26_CIVA.pdf'
 ---
 
-Yuyao Zhang, Ke Guo, **Xiao Zhou**\*.
+Xiangxu Zhang, Jiamin Wang, Qinlin Zhao, Hanze Guo, Linzhuo Li, Jing Yao, Xiaoyuan Yi\*, Xing Xie,, **Xiao Zhou**\*.
 
-Artificial light plays an integral role in modern cities, significantly enhancing human productivity and the efficiency of civilization. However, excessive illumination can lead to light pollution, posing non-negligible threats to economic burdens, ecosystems, and human health. Despite its critical importance, the exploration of its causes remains relatively limited within the field of artificial intelligence, leaving an incomplete understanding of the factors contributing to light pollution and sustainable illumination planning distant. To address this gap, we introduce a novel framework named Causally Aware Generative Adversarial Networks (CAGAN). This innovative approach aims to uncover the fundamental drivers of light pollution within cities and offer intelligent solutions for optimal illumination resource allocation in the context of sustainable urban development. We commence by examining light pollution across 33,593 residential areas in seven global metropolises. Our findings reveal substantial influences on light pollution levels from various building types, notably grasslands, commercial centers and residential buildings as significant contributors. These discovered causal relationships are seamlessly integrated into the generative modeling framework, guiding the process of generating light pollution maps for diverse residential areas. Extensive experiments showcase CAGAN’s potential to inform and guide the implementation of effective strategies to mitigate light pollution. Our code and data are publicly available at https://github.com/zhangyuuao/Light Pollution CAGAN.
+
+As LLMs evolve from standalone assistants into autonomous agents, they increasingly operate in populations where communication, coordination, and competition form community-like interaction networks. In such settings, individually value-steered behaviors can accumulate into group-level dynamics, raising the question of how human values shape collective outcomes in interacting LLM-agent populations. We introduce CIVA, a community-
+level value analysis framework that varies value direction and prevalence, then measures how these interventions propagate through repeated interactions into macro-level dynamics and micro-level behaviors. We apply it in a resource-constrained multi-agent community where LLM agents autonomously communicate, cooperate, and compete. The value scan reveals distinct structural response patterns: activation-supporting values such as benevolence supports persistence and resilience, an activation-constraining value such as tradition regulates growth and cohesion, and a bidirectionally disruptive value such as power perturbs collective regimes in both directions. At the micro level, representative interventions induce emergent behaviors including deception, betrayal, self-preservation, and power-seeking. These results show that human values can act as population-level structural variables in agent communities and motivate evaluation for multi-agent value alignment.
