@@ -6,7 +6,7 @@ venue: 'Findings of the Association for Computational Linguistics: EMNLP 2026'
 paperurl: 'http://XiaoZHOUCAM.github.io/files/EMNLP26_CIVA.pdf'
 ---
 
-Xiangxu Zhang, Jiamin Wang, Qinlin Zhao, Hanze Guo, Linzhuo Li, Jing Yao, Xiaoyuan Yi\*, Xing Xie,, **Xiao Zhou**\*.
+Xiangxu Zhang, Jiamin Wang, Qinlin Zhao, Hanze Guo, Linzhuo Li, Jing Yao, Xiaoyuan Yi\*, Xing Xie, **Xiao Zhou**\*.
 
 
 As LLMs evolve from standalone assistants into autonomous agents, they increasingly operate in populations where communication, coordination, and competition form community-like interaction networks. In such settings, individually value-steered behaviors can accumulate into group-level dynamics, raising the question of how human values shape collective outcomes in interacting LLM-agent populations. We introduce CIVA, a community-
