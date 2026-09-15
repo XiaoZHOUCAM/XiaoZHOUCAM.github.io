@@ -1,7 +1,7 @@
 ---
 title: "R2MED: A Benchmark for Reasoning-Driven Medical Retrieval"
 collection: publications
-date: 2026-07-02
+date: 2026-10-24
 venue: 'Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)'
 paperurl: 'http://XiaoZHOUCAM.github.io/files/EMNLP26_R2MED.pdf'
 ---
