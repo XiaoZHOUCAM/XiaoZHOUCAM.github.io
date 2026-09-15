@@ -1,11 +1,11 @@
 ---
-title: "Causally Aware Generative Adversarial Networks for Light Pollution Control"
+title: "LaPR: Latent Preference Reasoning for Generative Personalized Retrieval"
 collection: publications
-date: 2024-02-20
-venue: 'Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI)'
-paperurl: 'http://XiaoZHOUCAM.github.io/files/AAAI24_CAGAN.pdf'
+date: 2026-10-24
+venue: 'Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)'
+paperurl: 'http://XiaoZHOUCAM.github.io/files/EMNLP_LaPR.pdf'
 ---
 
-Yuyao Zhang, Ke Guo, **Xiao Zhou**\*.
+Hanze Guo†, Shunyu Zhang†, Jiakai Tang, Yi Zhang\*, Xuanping Li, Jingwei Zhuo, **Xiao Zhou**\*.
 
-Artificial light plays an integral role in modern cities, significantly enhancing human productivity and the efficiency of civilization. However, excessive illumination can lead to light pollution, posing non-negligible threats to economic burdens, ecosystems, and human health. Despite its critical importance, the exploration of its causes remains relatively limited within the field of artificial intelligence, leaving an incomplete understanding of the factors contributing to light pollution and sustainable illumination planning distant. To address this gap, we introduce a novel framework named Causally Aware Generative Adversarial Networks (CAGAN). This innovative approach aims to uncover the fundamental drivers of light pollution within cities and offer intelligent solutions for optimal illumination resource allocation in the context of sustainable urban development. We commence by examining light pollution across 33,593 residential areas in seven global metropolises. Our findings reveal substantial influences on light pollution levels from various building types, notably grasslands, commercial centers and residential buildings as significant contributors. These discovered causal relationships are seamlessly integrated into the generative modeling framework, guiding the process of generating light pollution maps for diverse residential areas. Extensive experiments showcase CAGAN’s potential to inform and guide the implementation of effective strategies to mitigate light pollution. Our code and data are publicly available at https://github.com/zhangyuuao/Light Pollution CAGAN.
+Generative retrieval offers a unified paradigm for personalized search by autoregressively decoding items as Semantic IDs. However, personalized search hinges on reasoning about query-history relevance, in which explicit textual reasoning incurs heavy cost and high latency, whereas purely implicit reasoning does not provide a structured intermediate latent interface for retrieval. To resolve this tension, we propose LaPR, an adaptive latent retrieval reasoning framework that turns explicit retrieval reasoning into compact latent signals. Specifically, LaPR constructs verified step-wise retrieval traces, induces step-conditioned semantic slots via vector quantization, and distills textual reasoning into these slots through a text-latent to pure-latent curriculum. At inference, LaPR adaptively predicts the reasoning depth and corresponding slots from the query and user history, providing latent reasoning signals for efficient Semantic-ID generation. Extensive experiments show that LaPR consistently surpasses all baselines, achieving SOTA personal retrieval performance while substantially reducing reasoning-token cost and inference latency.
