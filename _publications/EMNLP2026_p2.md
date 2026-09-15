@@ -3,7 +3,7 @@ title: "LaPR: Latent Preference Reasoning for Generative Personalized Retrieval"
 collection: publications
 date: 2026-10-24
 venue: 'Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)'
-paperurl: 'http://XiaoZHOUCAM.github.io/files/EMNLP_LaPR.pdf'
+paperurl: 'http://XiaoZHOUCAM.github.io/files/EMNLP26_LaPR.pdf'
 ---
 
 Hanze Guo<sup>&spades;</sup>, Shunyu Zhang<sup>&spades;</sup>, Jiakai Tang, Yi Zhang\*, Xuanping Li, Jingwei Zhuo, **Xiao Zhou**\*.
