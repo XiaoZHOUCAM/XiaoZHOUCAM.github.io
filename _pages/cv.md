@@ -49,6 +49,12 @@ Work Experience
 
 Research Funding
 ======
+* Beijing Nova Program, PI
+  * Project: Causal Reasoning and Large Language Model Agent Decision-Making Methods for Urban Governance
+* CCF-DiDi GAIA Research Fund, PI
+  * Project: Structured Spatial Reasoning–Driven Agent Methods for Automatic Road Network Anomaly Repair
+* Huawei Technology Co., Ltd., PI
+  * Project: Proactive Recommendation Technologies for Multi-Round Policy Learning
 * Kuaishou Technology Co., Ltd., PI
   * Project: End-to-End Large Recommendation Models for Near-Field Distribution Scenarios
 * Shenhan Technology Co., Ltd., PI
